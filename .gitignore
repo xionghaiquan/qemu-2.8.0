@@ -109,3 +109,14 @@ cscope.*
 tags
 TAGS
 *~
+roms/seabios/config.mak
+roms/vgabios/config.mak
+module_block.h
+pc-bios/optionrom/linuxboot_dma.bin
+pc-bios/optionrom/linuxboot_dma.img
+pc-bios/optionrom/linuxboot_dma.raw
+qemu-version.h
+qemu-version.h.tmp
+trace-events-all
+
+
